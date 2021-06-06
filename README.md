@@ -5,7 +5,6 @@ I haven't been great at keeping a record, but stay tuned with the work to come!
 - 🌱 Of particular note, 
 
 You can find my route to learning machine learning. 
-
 I have kept a record of the: courses I have taken; the tutorials followed; and any other source material which I found useful.
 
 On my journey, I was particularly interested in 'automated image recognition' type problems where I got experience using OpenCV, Scikit-image and some Tensorflow. 
