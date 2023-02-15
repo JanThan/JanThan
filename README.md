@@ -1,13 +1,10 @@
-- 👋🏽 Hi, I’m Janith  👦🏽⚡  
+👋🏽 Hi, I’m Janith  👦🏽⚡  
+---
+![alt text](avatar_github.png)
 
-This is my personal and somewhat active repository of past and present projects.    
+I currently work as a Product Engineer in the Biotechnology sector with an emphasis on the lifecycle management of electronic components within the electrical cabinets of machinery.  
 
-- 🌱 Of particular note  
-You can find my route to learning machine learning.  
-I have kept a record of the: courses I have taken; the tutorials followed; and any other source material which I found useful.  
-On my journey, I was particularly interested in 'automated image recognition' type problems where I got experience using OpenCV, Scikit-image and some Tensorflow.  
-I reached my first major milestone where I wrote my final year dissertation on the aspect of building a robust cnn which may be more resistant to various adversarial attacks.  
-You can find this as well as all the above, linked in their relevant folders.  
+I am passionate about furthering my understanding of best practices wrt electronic and electrical design and use this github as a respository for active and past projects in addition to a general record of reading material/ notes which I've collected on the way.  
 
 <!---
 JanThan/JanThan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
