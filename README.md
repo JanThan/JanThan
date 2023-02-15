@@ -1,6 +1,6 @@
 👋🏽 Hi, I’m Janith  👦🏽⚡  
 ---
-![alt text](avatar_github.png)
+![avatar](avatar_github.png)
 
 I currently work as a Product Engineer in the Biotechnology sector with an emphasis on the lifecycle management of electronic components within the electrical cabinets of machinery.  
 
