@@ -1,7 +1,6 @@
 - 👋🏽 Hi, I’m Janith  👦🏽⚡  
--  🔌
-This is my personal and active repository to keep a record of my past and present projects to date.  
-I haven't been great at keeping a record, but stay tuned with the work to come!  
+
+This is my personal and somewhat active repository of past and present projects.    
 
 - 🌱 Of particular note  
 You can find my route to learning machine learning.  
