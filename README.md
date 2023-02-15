@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Janith  
+- 👋 Hi, I’m Janith  👦🏽💡⚡🔌
 This is my personal and active repository to keep a record of my past and present projects to date.  
 I haven't been great at keeping a record, but stay tuned with the work to come!  
 
